@@ -2,7 +2,7 @@
 For Generall work
 
 # The Screen of the project:
-![Image alt](https://github.com/{username}/{repository}/raw/{branch}/{path}/image.png)
+![Image alt](https://github.com/AndyMagwayer/Astro-Generall-PR/blob/main/Landing%20Page.jpg)
 
 
 ## Deploy:
